@@ -1,0 +1,6 @@
+#!/bin/bash
+counter=0
+#for file in * # All files
+for file in *.png; do
+    [[ -f $file ]] && echo mv -i "$file" $((counter+1)).png && ((counter++))
+done
