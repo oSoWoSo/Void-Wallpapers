@@ -12,4 +12,5 @@ Credits to:
 
 And lot of others who posted wallpapers on void's reddit page....
 
+forked from: https://github.com/siduck76/distro-walls
 - gathered by zenobit
