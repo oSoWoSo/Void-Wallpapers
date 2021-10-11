@@ -4,7 +4,7 @@ This repo contains a collection of wallpapers and logos for Gnu/Void linux.
 WIP!! for now this repo has only void walls
 
 Credits to:
-- @siduck ( Ive made some walls too :p)
+- @siduck ( made some walls too :p)
 - @mahmoudk1000
 (made by Dieggho on deviantart)
 - @Mangeshrex
