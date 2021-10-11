@@ -1,13 +1,15 @@
-This repo contains a collection of wallpapers I found or made for Gnu/Void linux.<br>
+# void artwork
+This repo contains a collection of wallpapers and logos for Gnu/Void linux.
 
-WIP!! for now this repo has only void walls , I'll soon add tons of distros and their walls in my free time >~<
+WIP!! for now this repo has only void walls
 
-Credits to
-@siduck ( Ive made some walls too :p)
-@mahmoudk1000
+Credits to:
+- @siduck ( Ive made some walls too :p)
+- @mahmoudk1000
 (made by Dieggho on deviantart)
-@Mangeshrex
-https://alkusin.net/
+- @Mangeshrex
+- https://alkusin.net/
 
-and lot of others who posted wallpapers on void's reddit page....
-gathered by zenobit
+And lot of others who posted wallpapers on void's reddit page....
+
+- gathered by zenobit
